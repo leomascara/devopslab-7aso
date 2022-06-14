@@ -1,0 +1,8 @@
+Dockerfile
+.git
+.gitignore
+Procfile
+READNE.md
+LICENSE
+sonar-project.properties
+tox.ini
